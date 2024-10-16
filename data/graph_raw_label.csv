@@ -1,0 +1,51 @@
+address,level_type,account_type,label
+0x29bd06bfb1b52bdae3190f7151ec0367b745b67f,Layer One,EOA,0x29bd06bfb1b52bdae3190f7151ec0367b745b67f | Layer One | EOA
+0x961baeb17b99da67daba6de02933fa0195cb425e,Layer One,EOA,0x961baeb17b99da67daba6de02933fa0195cb425e | Layer One | EOA
+0x585ed783c9246553e8bc9f9046c80f54afee7765,Layer One,EOA,0x585ed783c9246553e8bc9f9046c80f54afee7765 | Layer One | EOA
+0x9b10ca213be20b8bc2a398839edd1f6406dc9b47,Layer One,EOA,0x9b10ca213be20b8bc2a398839edd1f6406dc9b47 | Layer One | EOA
+0x7abe0ce388281d2acf297cb089caef3819b13448,Layer One,Cex Address,0x7abe0ce388281d2acf297cb089caef3819b13448 | Layer One | Cex Address
+0x7abe0ce388281d2acf297cb089caef3819b13448,Layer One,Cex Address,0x7abe0ce388281d2acf297cb089caef3819b13448 | Layer One | Cex Address
+0xc40abf7e6499694ea6f965df96e39e51305e019a,Layer One,EOA,0xc40abf7e6499694ea6f965df96e39e51305e019a | Layer One | EOA
+0x11133bcf0ecbe48e74a4d787bb047aa5bc2c5cab,Layer One,EOA,0x11133bcf0ecbe48e74a4d787bb047aa5bc2c5cab | Layer One | EOA
+0xa122d2d3d147732e2b5cce7d43a8c20e99c569f1,Layer One,EOA,0xa122d2d3d147732e2b5cce7d43a8c20e99c569f1 | Layer One | EOA
+0x99072e1422377d808d5599a78aa7e772b988c0fb,Layer One,EOA,0x99072e1422377d808d5599a78aa7e772b988c0fb | Layer One | EOA
+0x480f519181ca934bc408a246a37127566862d358,Layer Two,EOA,0x480f519181ca934bc408a246a37127566862d358 | Layer Two | EOA
+0x41555adfaed596a3bcc836c0c4891e4c2e51bf8f,Layer Two,EOA,0x41555adfaed596a3bcc836c0c4891e4c2e51bf8f | Layer Two | EOA
+0xd73ac858a9b5a83792d2a5e56fb755273620fe73,Layer One,EOA,0xd73ac858a9b5a83792d2a5e56fb755273620fe73 | Layer One | EOA
+0x2cb356d17ce28135d593795de6a398f2b997a69f,Layer One,EOA,0x2cb356d17ce28135d593795de6a398f2b997a69f | Layer One | EOA
+0xadb8ddf11607fc5faf1d6b50beed9f6c3577203e,Layer One,EOA,0xadb8ddf11607fc5faf1d6b50beed9f6c3577203e | Layer One | EOA
+0x395d94cebef7d01ac60f28b4a8de51b01f98e858,Layer Two,EOA,0x395d94cebef7d01ac60f28b4a8de51b01f98e858 | Layer Two | EOA
+0x3e957efc6d1bf1d9141212269cd04855ad92696e,Layer One,EOA,0x3e957efc6d1bf1d9141212269cd04855ad92696e | Layer One | EOA
+0x59abf3837fa962d6853b4cc0a19513aa031fd32b,Core,EOA,0x59abf3837fa962d6853b4cc0a19513aa031fd32b | Core | EOA
+0x8db10a697c8e61b47844186d84110e2db156db0e,Layer Two,EOA,0x8db10a697c8e61b47844186d84110e2db156db0e | Layer Two | EOA
+0x44b53564b95530a0bc708900089e685eef12fa6e,Layer One,EOA,0x44b53564b95530a0bc708900089e685eef12fa6e | Layer One | EOA
+0xd9d5f8bf5f4db56746460930befbac9935b39922,Layer Two,EOA,0xd9d5f8bf5f4db56746460930befbac9935b39922 | Layer Two | EOA
+0x52da49c343df2d1880ec79df9c89a962afc8691d,Layer One,EOA,0x52da49c343df2d1880ec79df9c89a962afc8691d | Layer One | EOA
+0x866eeecd1f248d1a0a2e0263f13594a6b8b7c01a,Layer One,EOA,0x866eeecd1f248d1a0a2e0263f13594a6b8b7c01a | Layer One | EOA
+0x3ca0f83634422967d424f4fab482c34781f31d20,Layer Two,EOA,0x3ca0f83634422967d424f4fab482c34781f31d20 | Layer Two | EOA
+0x7974bfec60ecec5cbda9fd68e8de86117382e1cc,Layer Two,EOA,0x7974bfec60ecec5cbda9fd68e8de86117382e1cc | Layer Two | EOA
+0x1111111254eeb25477b68fb85ed929f73a960582,Layer Two,Contract Address,0x1111111254eeb25477b68fb85ed929f73a960582 | Layer Two | Contract Address | 1inch v5: Aggregation Router
+0x7f3debba84491401bd4fe51c1a1926b049189d57,Layer One,EOA,0x7f3debba84491401bd4fe51c1a1926b049189d57 | Layer One | EOA
+0x23a43cf429ec32ebca4624e2182a799141425556,Layer One,EOA,0x23a43cf429ec32ebca4624e2182a799141425556 | Layer One | EOA
+0xcbcef2cc96b288e1b3345e799986c50d08d701ae,Layer Two,EOA,0xcbcef2cc96b288e1b3345e799986c50d08d701ae | Layer Two | EOA
+0xdbd3abf43d4a2c8707a747dfb1ecceafeb796724,Layer Two,EOA,0xdbd3abf43d4a2c8707a747dfb1ecceafeb796724 | Layer Two | EOA
+0xa397499c233fed8598f72cf19e8f3970d2aaea4a,Layer Two,EOA,0xa397499c233fed8598f72cf19e8f3970d2aaea4a | Layer Two | EOA
+0x1010bb5865c1091273ac239ab248f4554f2122a4,Layer Two,EOA,0x1010bb5865c1091273ac239ab248f4554f2122a4 | Layer Two | EOA
+0xd6ba300a4f0cfb7c5a1f6f8c0b155c04f74b38e2,Layer Two,EOA,0xd6ba300a4f0cfb7c5a1f6f8c0b155c04f74b38e2 | Layer Two | EOA
+0xc2186ef4ce8638c862fd752f9b6f8a0a7b297cf1,Layer Two,EOA,0xc2186ef4ce8638c862fd752f9b6f8a0a7b297cf1 | Layer Two | EOA
+0x368129a89db7acae7ce0bfdb649d188154c90827,Layer Two,EOA,0x368129a89db7acae7ce0bfdb649d188154c90827 | Layer Two | EOA
+0x58fd558773fc5cf9d9b7d2eaef22596ee7922907,Layer Two,EOA,0x58fd558773fc5cf9d9b7d2eaef22596ee7922907 | Layer Two | EOA
+0xd11fd269ac6b602e42abb6f0f186cd5b27180ffd,Layer One,EOA,0xd11fd269ac6b602e42abb6f0f186cd5b27180ffd | Layer One | EOA
+0xd53c2e2d17281487023c1e4433f7ac95b88d7277,Layer One,EOA,0xd53c2e2d17281487023c1e4433f7ac95b88d7277 | Layer One | EOA
+0xcd82b7e94d214d629bae2f26131174618da1bb6e,Layer Two,EOA,0xcd82b7e94d214d629bae2f26131174618da1bb6e | Layer Two | EOA
+0x5ab55afcbfde83e0b3fbeff67ed0da73ba7b629c,Layer One,EOA,0x5ab55afcbfde83e0b3fbeff67ed0da73ba7b629c | Layer One | EOA
+0x2cfe6a1abc4f72065d3a640a5a006471794b2ecc,Layer One,EOA,0x2cfe6a1abc4f72065d3a640a5a006471794b2ecc | Layer One | EOA
+0x2faf487a4414fe77e2327f0bf4ae2a264a776ad2,Layer One,Cex Address,0x2faf487a4414fe77e2327f0bf4ae2a264a776ad2 | Layer One | Cex Address | FTX Exchange
+0x2faf487a4414fe77e2327f0bf4ae2a264a776ad2,Layer One,Cex Address,0x2faf487a4414fe77e2327f0bf4ae2a264a776ad2 | Layer One | Cex Address | FTX Exchange
+0x2faf487a4414fe77e2327f0bf4ae2a264a776ad2,Layer One,Cex Address,0x2faf487a4414fe77e2327f0bf4ae2a264a776ad2 | Layer One | Cex Address | FTX Exchange
+0x2faf487a4414fe77e2327f0bf4ae2a264a776ad2,Layer One,Cex Address,0x2faf487a4414fe77e2327f0bf4ae2a264a776ad2 | Layer One | Cex Address | FTX Exchange
+0x2faf487a4414fe77e2327f0bf4ae2a264a776ad2,Layer One,Cex Address,0x2faf487a4414fe77e2327f0bf4ae2a264a776ad2 | Layer One | Cex Address | FTX Exchange
+0x2faf487a4414fe77e2327f0bf4ae2a264a776ad2,Layer One,Cex Address,0x2faf487a4414fe77e2327f0bf4ae2a264a776ad2 | Layer One | Cex Address | FTX Exchange
+0x8059c2b8ff915ec4b615c95e719861f269d68ada,Layer One,EOA,0x8059c2b8ff915ec4b615c95e719861f269d68ada | Layer One | EOA
+0xc0c847b14965df7e7eaa003ea987c6187211d85f,Layer One,EOA,0xc0c847b14965df7e7eaa003ea987c6187211d85f | Layer One | EOA
+0x3961202ca698b99b516895cec84349ae24069838,Layer Two,EOA,0x3961202ca698b99b516895cec84349ae24069838 | Layer Two | EOA
